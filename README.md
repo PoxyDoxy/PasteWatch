@@ -16,7 +16,9 @@ Watches PasteBin.com for specificed keywords, alerts you on Discord.
     * Your IP Address
 
 PasteWatch requires a PasteBin.com LifeTime Account to be able to scrape so aggressivly using their own API. 
-If you try to use other scraping methods to bypass it, they will most likely ban your IP.
+
+If you try to use other scraping methods to bypass it, they will most likely **ban** your IP.
+
 This scraper scrapes according to their API reccomendations (100 pastes a minute).
 
 # How to Use
