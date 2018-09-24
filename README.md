@@ -61,15 +61,20 @@ Then install 'requests' using pip3.
 
 ### Screenshots (Console)
 ![ConsoleExampleImportant.JPG](Screenshots/ConsoleExampleImportant.JPG)
+
 ![ConsoleExampleUnimportant.JPG](Screenshots/ConsoleExampleUnimportant.JPG)
+
 ![ConsoleExampleNoneFound.JPG](Screenshots/ConsoleExampleNoneFound.JPG)
 
 ### Screenshots (Discord)
 2 Webhooks, 1 for Important, 1 for Unimportant.
 ![DiscordHooksExample.JPG](Screenshots/DiscordHooksExample.JPG)
+
 Notification Settings, 1 for each channel.
 ![DiscordNotificationExample.JPG](Screenshots/DiscordNotificationExample.JPG)
+
 PasteWatch has found one of your Important Keywords!
 ![DiscordImportantFound.JPG](Screenshots/DiscordImportantFound.JPG)
+
 PasteWatch has found one of your Unimportant Keywords.
 ![DiscordUnimportantFound.JPG](Screenshots/DiscordUnimportantFound.JPG)
