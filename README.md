@@ -55,9 +55,13 @@ This scraper scrapes according to their API reccomendations (100 pastes a minute
 ### Prerequisites
 
 This has 1 dependancy.
+
 Install any version of python 3 using your local package manager (apt/apt-get for debian).
+
 `apt install python3`
+
 Then install 'requests' using pip3. 
+
 `pip3 install requests`
 
 
